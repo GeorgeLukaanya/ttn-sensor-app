@@ -8,7 +8,7 @@ import logging
 import schedule
 import threading
 from azure.storage.blob import BlobServiceClient
-
+# New lines
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
