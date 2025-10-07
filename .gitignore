@@ -3,3 +3,4 @@ __pycache__/
 .env
 *.json
 /home/ltgwgeorge/Desktop/ttn-sensor-app/.venv/
+.python_packages
